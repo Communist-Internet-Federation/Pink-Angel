@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Pink-Angel (Light)
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Pink-Angel (Light)
+MetacityTheme=Pink-Angel (Light)
+IconTheme=Pink-Angel (Light)
+CursorTheme=Pink-Angel (Light)
+CursorSize=24
