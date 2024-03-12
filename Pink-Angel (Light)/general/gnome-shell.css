@@ -13,9 +13,9 @@
 .quick-toggle:checked:hover,
 .quick-toggle:checked:focus,
 .quick-toggle:checked:active
-{ background-color: rgba(249,84,143, 1.0) !important; box-shadow: none; }
+{ background-color: rgba(249,84,169, 1.0) !important; box-shadow: none; }
 
-.quick-toggle:checked:insensitive { background-color: rgba(249,84,143, 0.5); }
+.quick-toggle:checked:insensitive { background-color: rgba(249,84,169, 0.5); }
 
 .calendar .calendar-day-base{ box-shadow: none; }
 
